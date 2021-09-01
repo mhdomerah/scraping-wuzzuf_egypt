@@ -1,9 +1,4 @@
-# Resource https://www.youtube.com/watch?v=q0ert5YP968
-
-## 1th step insall and import module 
-# pip install lxml 
-# pip install BeautifulSoup4
-# pip install requests
+## 1th import module  
 
 import requests
 from bs4 import BeautifulSoup
