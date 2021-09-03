@@ -1,8 +1,12 @@
 # About 
 
-This web scraper get all python details job from [wuzzuf.net](https://wuzzuf.net/search/jobs/?a=hpb%7Cspbg&q=python&start=0)
+This web scraper get any job details from [wuzzuf.net](https://wuzzuf.net/search/jobs/?a=hpb%7Cspbg&q=python&start=0) and save them to a CSV file 
 
 <br>
+
+# Example
+
+Get all python details jobs  
 
 # Output
 
