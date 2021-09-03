@@ -1,6 +1,6 @@
 # About 
 
-This web scraper get all python details job from WUZUF.com
+This web scraper get all python details job from [wuzzuf.neta link](https://wuzzuf.net/search/jobs/?a=hpb%7Cspbg&q=python&start=0)
 
 <br>
 
